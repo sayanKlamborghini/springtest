@@ -20,7 +20,7 @@ public class YasasSpringCrudApplication {
 		SpringApplication app = new SpringApplication(YasasSpringCrudApplication.class);
 		app.setDefaultProperties(Collections.singletonMap("server.servlet.context-path", "/"));
 		app.run(args);
-
+              //App runs second commit
 	}
 
 }
