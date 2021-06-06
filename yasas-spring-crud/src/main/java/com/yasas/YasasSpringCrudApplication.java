@@ -22,10 +22,7 @@ public class YasasSpringCrudApplication {
 		app.run(args);
               //App runs third commit
               // Fourth commit is here 
-	      // Branch feature feature1 commit is here
-	      // Branch feature2 commit is here
-	      // Branch feature3 commit is here
-              // fifth commit master is here             
+	      // Sixth commit master branch            
 	}
 
 }
